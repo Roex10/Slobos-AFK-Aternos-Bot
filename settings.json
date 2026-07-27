@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "owayesbc.aternos.me",
-    "port":  46969,
+    "ip": "roex10.aternos.me",
+    "port":  50827,
     "version": "",
     "try-creative": false
   },
