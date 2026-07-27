@@ -32,12 +32,12 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to !",
+        "Subscribe to Roex!",
         "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
